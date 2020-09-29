@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601382666 source:c:\users\emill\desktop\lp\exerciciotania2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
